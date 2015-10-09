@@ -1,0 +1,108 @@
+/* Empty. Add your own CSS if you like */
+#verde .bar.bar-stable .title {
+    text-transform: uppercase;
+    color: white;
+}
+
+#verde .bar.bar-stable .button.button-clear {
+    color: white;
+}
+
+.bar {
+    border: 0;
+}
+
+#verde .bar.bar-stable {
+    background-color: transparent; /* or transparent, or background:none */
+    color: white !important;
+}
+.scroll-content {
+  overflow: visible !important;
+}
+
+#verde .bar-header {
+    border: 0px !important;
+    border-bottom-color: transparent !important;
+    background-image: none;
+    border-bottom: none;
+}
+
+#sidemenu {
+    /* IE10+ */ 
+    background-image: -ms-linear-gradient(top, #A8D380 0%, #87C888 70%, #77C397 100%);
+
+    /* Mozilla Firefox */ 
+    background-image: -moz-linear-gradient(top, #A8D380 0%, #87C888 70%, #77C397 100%);
+
+    /* Opera */ 
+    background-image: -o-linear-gradient(top, #A8D380 0%, #87C888 70%, #77C397 100%);
+
+    /* Webkit (Safari/Chrome 10) */ 
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #A8D380), color-stop(70, #87C888), color-stop(100, #77C397));
+
+    /* Webkit (Chrome 11+) */ 
+    background-image: -webkit-linear-gradient(top, #A8D380 0%, #87C888 70%, #77C397 100%);
+
+    /* W3C Markup */ 
+    background-image: linear-gradient(to bottom, #A8D380 0%, #87C888 70%, #77C397 100%);
+}
+
+#sidemenu .item-content {
+    background: transparent;
+    border: 0;
+    color: white;
+}
+
+#sidemenu .item {
+    background: transparent;
+    border: 0;
+    color: white;
+}
+
+#verde {
+    background-image: url(../img/blurred.jpg);
+    background-size: cover;
+}
+
+#verde h1 {
+    color: white;
+    font-size: 72px;
+    font-weight: normal;
+}
+
+#verde h2 {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#verde h3 {
+    color: white;
+    font-size: 24px;
+    font-weight: lighter;
+}
+
+#verde button {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    width: 70%;
+    margin-bottom: 15px;
+}
+
+#butao {
+    -webkit-animation-duration: 1s;
+    -webkit-animation-delay: 2s;
+    -webkit-animation-iteration-count: infinite;
+}
+
+#verde .scroll-content {
+  display: table !important;
+  width: 100% !important;
+  height: 100% !important;
+}
+#verde .scroll {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}

@@ -1,0 +1,37 @@
+<ion-side-menus enable-menu-with-back-views="false">
+  <ion-side-menu-content>
+    <ion-nav-bar class="bar-stable">
+      <ion-nav-back-button>
+      </ion-nav-back-button>
+
+      <ion-nav-buttons side="left">
+        <button class="button button-icon button-clear ion-navicon" menu-toggle="left">
+        </button>
+      </ion-nav-buttons>
+    </ion-nav-bar>
+    <ion-nav-view name="menuContent"></ion-nav-view>
+  </ion-side-menu-content>
+
+  <ion-side-menu side="left" id="sidemenu">
+    <ion-content>
+        <div class="list">
+        <a class="item item-avatar-left" menu-close href="#/app/signup">
+          <img src="https://scontent-lhr3-1.xx.fbcdn.net/hprofile-xpf1/v/t1.0-1/p160x160/11401438_1009504975727199_8087647744185082635_n.jpg?oh=762d4d712829e6904160a3e07d933fd6&oe=56991D9F">
+          <h2>Welcome Mr. Reis</h2>
+          <p>Garage Remote Activated</p>
+        </a>
+        </div>
+      <ion-list>
+        <ion-item class="item-icon-left" menu-close href="#/app/playlists">
+           <i class="icon ion-lock-combination"></i>Status
+        </ion-item>
+        <ion-item class="item-icon-left" menu-close href="#/app/browse">
+          <i class="icon ion-calendar"></i>Ativity Log
+        </ion-item>
+        <ion-item class="item-icon-left" menu-close href="#/app/search">
+          <i class="icon ion-person-stalker"></i>Schedules and Permissions
+        </ion-item>
+      </ion-list>
+    </ion-content>
+  </ion-side-menu>
+</ion-side-menus>

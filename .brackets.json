@@ -1,0 +1,26 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/Users/joaoreis153/Documents/garagem/platforms/ios/www/lib/ionic/js/angular/angular-sanitize.js",
+        "/Users/joaoreis153/Documents/garagem/platforms/ios/www/lib/ionic/js/angular/angular-sanitize.min.js",
+        "/Users/joaoreis153/Documents/garagem/platforms/ios/www/lib/ionic/js/angular/angular.js",
+        "/Users/joaoreis153/Documents/garagem/platforms/ios/www/lib/ionic/js/angular/angular-resource.min.js",
+        "/Users/joaoreis153/Documents/garagem/www/js/app.js",
+        "/Users/joaoreis153/Documents/garagem/platforms/ios/build/emulator/Garagem.app/www/lib/ionic/js/angular-ui/angular-ui-router.min.js",
+        "/Users/joaoreis153/Documents/garagem/platforms/ios/build/emulator/Garagem.app/www/lib/ionic/js/ionic-angular.js",
+        "/Users/joaoreis153/Documents/garagem/platforms/ios/build/emulator/Garagem.app/www/lib/ionic/js/ionic-angular.min.js",
+        "/Users/joaoreis153/Documents/garagem/platforms/ios/build/emulator/Garagem.app/www/lib/ionic/js/ionic.bundle.js",
+        "/Users/joaoreis153/Documents/garagem/platforms/ios/build/emulator/Garagem.app/www/lib/ionic/js/ionic.bundle.min.js",
+        "/Users/joaoreis153/Documents/garagem/platforms/ios/build/emulator/Garagem.app/www/lib/ionic/js/ionic.js",
+        "/Users/joaoreis153/Documents/garagem/platforms/ios/build/emulator/Garagem.app/www/lib/ionic/js/ionic.min.js",
+        "/Users/joaoreis153/Documents/garagem/platforms/ios/build/emulator/Garagem.app/www/plugins/cordova-plugin-bluetooth-serial/www/bluetoothSerial.js",
+        "/Users/joaoreis153/Documents/garagem/platforms/ios/build/emulator/Garagem.app/www/plugins/cordova-plugin-console/www/console-via-logger.js",
+        "/Users/joaoreis153/Documents/garagem/platforms/ios/build/emulator/Garagem.app/www/plugins/cordova-plugin-console/www/logger.js",
+        "/Users/joaoreis153/Documents/garagem/platforms/ios/build/emulator/Garagem.app/www/plugins/cordova-plugin-device/www/device.js",
+        "/Users/joaoreis153/Documents/garagem/platforms/ios/build/emulator/Garagem.app/www/plugins/cordova-plugin-splashscreen/www/splashscreen.js",
+        "/Users/joaoreis153/Documents/garagem/platforms/ios/cordova/lib/build.js",
+        "/Users/joaoreis153/Documents/garagem/platforms/ios/cordova/lib/check_reqs.js",
+        "/Users/joaoreis153/Documents/garagem/platforms/ios/cordova/lib/clean.js",
+        "/Users/joaoreis153/Documents/garagem/platforms/ios/build/emulator/Garagem.app/www/lib/ionic/js/angular/angular.min.js",
+        "/Users/joaoreis153/Documents/garagem/platforms/ios/build/emulator/Garagem.app/www/lib/ionic/js/angular-ui/angular-ui-router.js"
+    ]
+}
